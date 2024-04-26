@@ -34,11 +34,10 @@
     --section-title-color: var(--color-black);
 }
 
-* {
-    box-sizing: content-box;
-}
+
 
 html {
+    box-sizing: border-box;
     scroll-behavior: smooth;
     font-size: 62.5%;
 }
