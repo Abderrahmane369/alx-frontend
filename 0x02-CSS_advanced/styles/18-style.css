@@ -153,6 +153,11 @@ a:active {
     padding: 0;
     list-style: none;
     text-align: center;
+    font-size: 100%;
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: none;
 }
 
 .nav .nav-item {
