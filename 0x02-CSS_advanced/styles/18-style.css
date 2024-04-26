@@ -52,7 +52,6 @@
 *:before,
 *:after {
     box-sizing: border-box;
-    margin
 }
 html {
     scroll-behavior: smooth;
