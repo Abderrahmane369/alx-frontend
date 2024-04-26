@@ -344,8 +344,6 @@ ul.row {
     height: 30rem;
     width: 100%;
     object-fit: cover;
-    position: absolute;
-    bottom: 0;
 }
 
 .card-work .card-inner {
